@@ -1,4 +1,8 @@
 ### Hi there 👋
+Hi! I am Sridevi, a computer science engineering student with a huge interest in coding 💻 and web development 🕸. I am currently learning APIs, Databases and Back-End Web Dev. I am also working on several projects 📽 and I am open to collaboration on my projects. I am also open to discussions and interactions from fellow coders, and I wish to learn as much as possible from everyone. 
+⚡ Fun fact: Websites are rendered differently by all web browsers.
+🤔 I’m looking for help with working on an online code editor.
+📫 How to reach me: mya82684@gmail.com
 
 <!--
 **srii5477/srii5477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
