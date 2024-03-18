@@ -1,7 +1,5 @@
 ### Hi there 👋
-Hi! I am Sridevi, a computer science engineering student with a huge interest in coding 💻 and web development 🕸. I am currently learning APIs, Databases and Back-End Web Dev. I am also working on several projects 📽 and I am open to collaboration on my projects. I am also open to discussions and interactions from fellow coders, and I wish to learn as much as possible from everyone. 
-⚡ Fun fact: Websites are rendered differently by all web browsers.
-🤔 I’m looking for help with working on an online code editor.
+Hi! I am Sridevi, a computer science engineering student with a huge interest in coding 💻, software development, data science and ML. I am currently learning DSA, APIs, Databases and Back-End Web Dev. I am also working on several projects 📽 and I am open to collaboration on my projects. I am also open to discussions and interactions from fellow coders, and I wish to learn as much as possible from everyone. 
 📫 How to reach me: mya82684@gmail.com
 
 <!--
