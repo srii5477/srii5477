@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! I am Sridevi, a computer science engineering student with a huge interest in coding, software development, data science and ML. I am currently learning DSA, APIs, Databases and Back-End Web Dev. I am also working on several projects and I am open to collaboration on my projects. I am also open to discussions and interactions from fellow coders, and I wish to learn as much as possible from everyone. 
+Hi! I am Sridevi, a computer science engineering student with a huge interest in coding, software development, data science and ML. I am currently learning DSA and Back-End Web Dev. I am also working on several projects and I am open to collaboration on my projects. I am also open to discussions and interactions from fellow coders, and I wish to learn as much as possible from everyone. 
 
 <!--
 **srii5477/srii5477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
