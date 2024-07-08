@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi! I am Sridevi, a computer science engineering student passionate about all things coding, software development, data science and ML. I am  working on several projects practicing what I learn and I am open to collaboration. I am also eager for discussions and interactions from fellow coders, and I wish to learn as much as possible from everyone. 
+Hi! I am Sridevi, a computer science engineering student passionate about all things coding, software development, and data science. I am  working on several projects, practicing what I learn. I am open to collaboration, discussions and interactions with fellow coders, and I wish to learn as much as possible from everyone. 
 
 <!--
 **srii5477/srii5477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
