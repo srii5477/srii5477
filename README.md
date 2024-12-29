@@ -1,17 +1,18 @@
-### Hi there 👋
-Hi! I am Sridevi, a computer science engineering student passionate about all things coding, software development, and machine learning. I am  working on several projects, practicing what I learn. I am open to collaboration, discussions and interactions with fellow coders, and I wish to learn as much as possible from everyone. 
 
-<!--
-**srii5477/srii5477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+··································································
+:  _  _      _                       ___     (")                 :
+: | || |    (_)      _       o O O  |_ _|     \|    _ __         :
+: | __ |    | |     ( )     o        | |           | '  \        :
+: |_||_|   _|_|_   _|/__   TS__[O]  |___|   _____  |_|_|_|       :
+:_|"""""|_|"""""|_|"""""| {======|_|"""""|_|     |_|"""""|       :
+:"`-0-0-'"`-0-0-'"`-0-0-'./o--000'"`-0-0-'"`-0-0-'"`-0-0-'       :
+:   ___              _        _                      _       _   :
+:  / __|     _ _    (_)    __| |    ___    __ __    (_)     | |  :
+:  \__ \    | '_|   | |   / _` |   / -_)   \ V /    | |     |_|  :
+:  |___/   _|_|_   _|_|_  \__,_|   \___|   _\_/_   _|_|_   _(_)_ :
+:_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """ |:
+:"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-':
+··································································
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web developer, app developer, and an ML/DL practitioner whose passion is all things CS! 
