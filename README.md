@@ -32,4 +32,4 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """ |
 
 
 
-Web developer, app developer, and an ML/DL practitioner whose passion is all things CS! 
+Web developer and a deep learning practitioner whose passion is all things CS! 
