@@ -18,4 +18,4 @@
 
 
 
-Web developer and a deep learning practitioner whose passion is all things CS! 
+Web and mobile developer whose passion is all things CS! 
