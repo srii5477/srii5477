@@ -18,4 +18,4 @@
 
 
 
-Web and mobile developer whose passion is all things CS! 
+Software developer whose passion is all things CS! 
